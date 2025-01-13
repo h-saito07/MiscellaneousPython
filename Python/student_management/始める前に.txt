@@ -1,0 +1,19 @@
+   ＜始める前に＞
+
+
+       コマンドプロンプトにて以下のテキストを入力し、実行してください。
+
+    　　     python -m pip install --upgrade pip setuptools
+
+    　　     pip install cryptography
+
+
+
+       その後、以下のファイルを実行してください。
+
+    　　     make_key.py  ( sub フォルダに入っています。 )
+
+
+       始めるには、以下のファイルを実行します。
+
+    　　     Main.py
